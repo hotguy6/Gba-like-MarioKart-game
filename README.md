@@ -7,4 +7,5 @@ The game itself required:
 - effective use of button and mouse listeners
 - abstract classes and events
 - good looking GUI/UI
+  
 There are most of the requirments for this project. I feel pretty confident that I have at least met all of them. My mario Kart game succssefuly implements collision, mouse and button listeners, abstract classes and events as well as a pretty good lookning GUI. The game iself is pretty fun as well although the there are only three tracks and the tracks themselves are pretty short. But interms of effective use of Vibe coding I gfell that I have met all the expectations.
